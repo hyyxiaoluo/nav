@@ -11,7 +11,7 @@
   },
   "homepage": "https://github.com/xjh22222228/nav",
   "engines": {
-    "node": "16"
+    "node": ">=16"
   },
   "scripts": {
     "ng": "ng",
